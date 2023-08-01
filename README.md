@@ -1,4 +1,5 @@
-Dumb change
+[![Build Status](https://dev.azure.com/eduardouflassis/My%20first%20pipeline/_apis/build/status%2Feduardoassis.pipelines-java?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/eduardouflassis/My%20first%20pipeline/_build/latest?definitionId=1&branchName=refs%2Fpull%2F2%2Fmerge)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
