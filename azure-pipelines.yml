@@ -16,7 +16,7 @@ steps:
   displayName: 'Build with Maven'
 - task: ShellScript@2
   inputs:
-    scriptPath: 'build.sh'
+    scriptPath: 'scripts/build.sh'
 - task: Maven@3
   inputs:
     mavenPomFile: 'pom.xml'
